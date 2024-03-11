@@ -1,8 +1,17 @@
-# React + Vite
+# React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sebelumnya terima kasih saya ucapkan untuk Kak Andre dan Tim Binar untuk kesempatan ini.
 
-Currently, two official plugins are available:
+Keterangan tugas: 
+Tugas slicing landing page menggunakan Vite+React berdasarkan UI yang disediakan Binar. Dalam pengerjaannya saya memakai style CSS saya sendiri dicampur dengan style yang diberikan oleh fasilitator selama periode diskusi yang saya gunakan sebagai patokan. Saya menggunakan framework Bootstrap dengan minimal (hanya sedikit inline style dan komponen Button Bootstrap).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Daftar library yang digunakan:
+- FontAwesome 6.5
+- Bootstrap (dengan CDN)
+
+
+
+
+
+#### Terima kasih
+#### Diaz
